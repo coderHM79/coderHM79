@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on android development
 
-
+#Skils
 ![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=61DAFB&logoColor=white)
 
 <!---
