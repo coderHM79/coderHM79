@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on android development
 
 
-![Kotlin](https://img.shields.io/badge/Kotlinn-Kotlin-brightgreen)
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational)
 
 <!---
 coderHM79/coderHM79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
