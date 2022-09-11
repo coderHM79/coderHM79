@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on android development
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <!---
 coderHM79/coderHM79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
